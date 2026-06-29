@@ -1,0 +1,11 @@
+{
+  "name": "Remix: Remix: Remix: Remix: Community Hero",
+  "description": "A hyperlocal platform enabling citizens to identify, report, validate, track, and resolve community issues collaboratively with AI-powered categorization and predictive insights.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
